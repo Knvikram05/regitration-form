@@ -1,9 +1,3 @@
-# regitration-form
-
-
-
-
-
 
 # Registration Form Project
 
